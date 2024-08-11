@@ -1,3 +1,3 @@
-# x32_kernel
+# x32k
 
-### This is a i686 ELF compiled kernel for x32 systems
+### x32k is a i686 ELF compiled kernel for x32 systems
